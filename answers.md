@@ -65,4 +65,48 @@ Changes to be committed:
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-  
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+[master (root-commit) 8174464] Initial commit
+ 2 files changed, 70 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 answers.md
+
+commit 8174464638a6cc905a5129dc3f552a86c5d2388c (HEAD -> master)
+Author: Brian Hartman <bh018420@ohio.edu>
+Date:   Wed Jan 25 18:45:20 2023 -0500
+
+    Initial commit
+
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 1.35 KiB | 1.35 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/Bhartman4/git-lab.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+Brian Hartman
+Bhartman4
+
+Brian Hartman
+Bhartman4
+CS 2400
+Section 107
+
+Already up to date.
+Brian Hartman
+Bhartman4
+CS 2400
+Section 107
+
+.  ..  git-lab-2  Labs
